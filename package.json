@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/public/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andfwas/portfolio-v1.git"
+  },
+  "author": "Andy Smart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andfwas/portfolio-v1/issues"
+  },
+  "homepage": "https://github.com/andfwas/portfolio-v1#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node-modules": "^1.0.1"
+  }
+}
